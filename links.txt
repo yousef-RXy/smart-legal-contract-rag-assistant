@@ -1,0 +1,5 @@
+kaggle:
+  https://www.kaggle.com/code/jousefna/smart-legal-contract-rag-assistant
+
+Github:
+  https://github.com/yousef-RXy/smart-legal-contract-rag-assistant
